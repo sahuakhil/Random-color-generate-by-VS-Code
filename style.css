@@ -1,0 +1,20 @@
+
+
+.instruction {
+    font-family: "Open Sans";
+    color: blueviolet;
+}
+
+.button {
+    color: black;
+    background-color: #fa5c6c;
+    width: 150px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 25px;
+    margin: 15px;
+}
+
+.bg-container {
+    height: 100vh;
+}
